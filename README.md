@@ -3,6 +3,8 @@ microCMS test
 
 My test site for [microCMS](https://microcms.io/).
 
+![top page screenshot](./screenshot.png)
+
 
 ## API schema in microCMS
 
